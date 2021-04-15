@@ -7,4 +7,5 @@ Fack Mask Detection using CNN
 Building a model that is correctly able to predict weather the person in the image is wearing a mask or not. The model can be of great use in the current scenario to help the authorities identify individuals not wearing masks.
 
 **MODEL ARCHITECTURE**
-![](images/you-picture.png)
+
+![](Images/Model_Architecture.jpeg)
